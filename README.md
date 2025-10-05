@@ -1,0 +1,1 @@
+“Webble” is an application for WearOS that aims to run watch faces designed for Pebble on devices running this operating system. The idea is to create a PebbleOS emulator limited exclusively to running watch faces. WIP
